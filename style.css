@@ -6,3 +6,6 @@ h1 {
   text-align: left;
 }
 
+h2 {
+  border-bottom: 1px solid #999;
+}

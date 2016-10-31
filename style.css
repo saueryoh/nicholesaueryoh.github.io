@@ -1,8 +1,9 @@
 * {
-  font-style:Times, sans-serif;
+  font-style:Verdana, Geneva, sans-serif;
+  background-color:linen;
   }
 h1 {
-  margin-left: 200px;
+  margin-left: 150ems;
   text-align: left;
 }
 
